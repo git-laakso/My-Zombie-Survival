@@ -1,7 +1,7 @@
 # My-Zombie-Survival
 My Zombie Survival is a game that was build on Unity engine. Unity uses C# for scripting.
 
-You can clone / donwload my project folder from this repository. Also you can play my game and try to beat it. Link to my <a href="https://www.dropbox.com/sh/6e0ve3pgz7zoua8/AADXhu0E8XoFimNSoB0r-k51a?dl=0>game</a>.
+You can clone / donwload my project folder from this repository. Also you can play my game and try to beat it. Link to my <a href="https://www.dropbox.com/sh/6e0ve3pgz7zoua8/AADXhu0E8XoFimNSoB0r-k51a?dl=0">game</a>.
 
 The documentation is written only in Finnish at the moment.
 
